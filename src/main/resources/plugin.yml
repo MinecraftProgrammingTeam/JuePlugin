@@ -1,0 +1,12 @@
+name: JuePlugin
+version: '${project.version}'
+main: top.mpt.jueplugin.JuePlugin
+api-version: 1.16
+authors: [ XHUIHUI ]
+description: 撅人插件
+website: https://www.minept.top
+commands:
+  jue:
+    description: 撅人指令，被撅者获得短暂失明+反胃。 用法 /jue <玩家名>
+  setjue:
+    description: 设置自己是否可以被撅(如果为off则你撅不了人，别人也撅不了你)。 用法：/setjue on/off
