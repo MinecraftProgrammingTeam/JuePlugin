@@ -14,3 +14,5 @@
 1.本仓库使用GPL V3协议开源
 
 2.若需要修改代码并发布视频/文章等，请在视频/文章底下放上此仓库的开源链接并且注明开发者
+
+Gitee链接：[Gitee](https://gitee.com/minecraft-programming-team/jue-plugin "Gitee")
